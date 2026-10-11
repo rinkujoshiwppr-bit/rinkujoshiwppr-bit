@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Rinku Joshi 👋
 
-<!--
-**rinkujoshiwppr-bit/rinkujoshiwppr-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Data Analyst | Python | SQL | Excel | Power BI
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a B.Tech Computer Science graduate interested in data analytics, data visualization, and business insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- Python
+- Pandas and NumPy
+- SQL / MySQL
+- Microsoft Excel
+- Power BI
+- Statistics and Data Visualization
+
+## 📊 Featured Project
+
+### Hospital Operations & Patient Benefit Analytics
+Analyzing hospital visits, patient waiting times, diagnoses, billing, insurance coverage, and patient satisfaction using Python and Pandas.
+
+**Tools:** Python, Pandas, NumPy, Matplotlib, Jupyter Notebook
+
+[View Hospital Analytics Project](https://github.com/rinkujoshiwppr-bit/hospital-operations-analytics)
+
+## 🎯 Current Goals
+- Improve SQL and Python problem-solving skills
+- Build practical analytics projects
+- Develop interactive Power BI dashboards
+- Learn from real-world business datasets
+
+## 🤝 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/rinku-joshi-8a6a05322)
+
+Thanks for visiting my profile!
